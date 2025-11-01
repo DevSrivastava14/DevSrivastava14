@@ -1,4 +1,7 @@
 ## Hi there 👋
+## 👨‍💻 Coding Profiles
+- 🧩 [LeetCode](https://leetcode.com/u/n7cI9U0p3N/)
+- 💼 [LinkedIn](www.linkedin.com/in/dev-srivastava-ba962032b)
 
 <!--
 **DevSrivastava14/DevSrivastava14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
